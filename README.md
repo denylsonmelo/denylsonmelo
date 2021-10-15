@@ -18,9 +18,10 @@
 ## Github Stats
 
 <span>
-   <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=denylsonmelo&count_private=true&show_icons=true&theme=dark&&include_all_commits=true"/>
-   <img height="150vw" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denylsonmelo&hide=html,python&layout=compact&langs_count=8&theme=dark"/>
+   <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=denylsonmelo&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true&hide=contribs&hide_border=false"/>
+   <img height="150vw" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denylsonmelo&hide=html,python&layout=compact&langs_count=8&theme=dracula"/>
 </span>
+
 
 <!--
 **denylsonmelo/denylsonmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
